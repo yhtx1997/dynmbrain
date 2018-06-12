@@ -76,7 +76,7 @@ function nl_lb() {
 			$(this).css({
 				transform: 'rotate(45deg)'
 			});
-		},
+		}
 
 	);
 }
